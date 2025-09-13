@@ -1,6 +1,8 @@
 # Simple-Site-Under-Construction
 This is a simple website template that displays a countdown clock for a site under construction. It’s perfect if you want to let visitors know when your site will launch.
 
+![Screenshot of a mockup Under Construction Page.](https://github.com/manczyks/Simple-Site-Under-Construction/blob/main/example.JPG)
+
 ## Features
 - Clean and minimal design
 - Countdown timer that updates automatically
