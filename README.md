@@ -13,7 +13,7 @@ This is a simple website template that displays a countdown clock for a site und
 	git clone https://github.com/manczyks/Simple-Site-Under-Construction.git
 ```
 2. Open in a Browser
-Simply open index.html in your browser to view the countdown page.
+	Simply open index.html in your browser to view the countdown page.
 3. Customize Your Website
 * Open index.html in a text editor.
 * Update the site title, headline, and launch date with your information. Example:
@@ -27,7 +27,7 @@ var austDay = new Date("August 15, 2028 02:15:00");
 </script>
 ```
 4. (Optional) Customize Styles
-Edit style.css to change colors, fonts, or layout.
+	Edit style.css to change colors, fonts, or layout.
 
 ## License
 This project is free to use and modify.
